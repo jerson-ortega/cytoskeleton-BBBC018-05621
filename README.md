@@ -21,12 +21,10 @@
 ## 2. Visualizations & Quantitative Results
 
 ### Figure 1: Cell Area vs. Circularity
-![Area vs Circularity](figures/area_vs_circularity.png)  
-*Cloud Backup:* [area_vs_circularity.png](https://drive.google.com/file/d/1LjbXnO3wnzSsUr9Ych4uVo68UCz_XDgJ/view?usp=drivesdk)
+* [area_vs_circularity.png](https://drive.google.com/file/d/1tn-DKaspEv4ZXr5OqpxMEtMHPDn5HTv0/view?usp=drivesdk)
 
 ### Figure 2: Mean Actin Signal Intensity
-![Actin Intensity](figures/actin_intensity.png)  
-*Cloud Backup:* [actin_intensity.png](https://drive.google.com/file/d/1jEpDRPAJ7Twf-0ciGxKkCi6h5oziCC1w/view?usp=drivesdk)
+* [actin_intensity.png](https://drive.google.com/file/d/1You_2XjRjeKNYRdrv0mmh9sMSpdkaGQ4/view?usp=drivesdk)
 
 ### Summary Statistics
 *Complete R Output Spreadsheet:* [`cell_summary.csv`](https://docs.google.com/spreadsheets/d/1Win3Iz8WuUQreGA5isBp85DZGPuX6foxGuOdZvrd_tg/edit?usp=drivesdk&ouid=116887671459865759793)
