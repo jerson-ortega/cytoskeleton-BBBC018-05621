@@ -14,7 +14,7 @@
 1. **Importing Images:** Opened `05621-actin.DIB` and `05621-DNA.DIB` in Fiji (ImageJ) using the Bio-Formats Importer.
 2. **Measurement Configuration:** Configured `Analyze > Set Measurements...` to capture **Area**, **Mean gray value**, and **Shape descriptors** (Circularity, Aspect Ratio, Roundness, Solidity).
 3. **Cell Tracing:** Synchronized side-by-side views of the actin and DNA channels to identify five distinct, intact cells with single nuclei.
-4. **Data Acquisition:** Traced the outer cell boundaries on the actin image using the **Freehand Selection** tool and saved measurements to [`fiji_results.csv`](https://drive.google.com/file/d/189vcLAU9fA8d4l4rn8OCpS5xhn14mLe5/view?usp=drivesdk).
+4. **Data Acquisition:** Traced the outer cell boundaries on the actin image using the **Freehand Selection** tool and saved measurements to [`fiji_results.csv`](https://drive.google.com/file/d/113Qc6_lCvpVTFgMGo5cV-SWF7uhP0qy0/view?usp=drivesdk).
 
 ---
 
